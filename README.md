@@ -19,12 +19,12 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/download.png)
 
 ### Links
 
 - Solution URL: [Repository](https://github.com/aslinsjr/fylo-data-storage-component-master)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page](https://aslinsjr.github.io/fylo-data-storage-component-master/)
 
 ## My process
 
